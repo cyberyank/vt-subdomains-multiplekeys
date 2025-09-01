@@ -5,10 +5,10 @@ import time
 
 # Add your API keys here
 API_KEYS = [
-    'd23d13deca5abe43b307b3db55e4bd336a7df67b8a4831796d9fe0ad6e007329',
-    'c21bdcdd790d2019de3492f4bfbe6557b9d84425ea08b1e4a716b534cee7457c',
-    '2c4e1f1a0150073d7b96f560ffa158ef6a879cbdd6b07a6a95befba36e3d518b',
-    'b91731cfbe15298babfb3136b1be5140239d0fd08f8a30a9eaefe56c89fceaf0',
+    '1',
+    '2',
+    '3',
+    '4',
 ]
 
 def fetch_subdomains(domain, output_file):
